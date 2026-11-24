@@ -1,5 +1,5 @@
 # Heinze-Final-
-My Sports group descriptive table from R code 
+My Sports group descriptive table from R code. I am researching the relationship between age and affect on playing time. 
 library(readr)
 data <- read_delim("data.csv")
 dim(data)
